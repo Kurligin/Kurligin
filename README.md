@@ -50,12 +50,3 @@ set up CI/CD and container delivery, and keep production stable with monitoring 
 </table>
 
 Also familiar with TypeScript, React and Swift.
-
-### Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kurligin&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&disable_animations=true" />
-    <img src="https://streak-stats.demolab.com?user=Kurligin&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=57606a&sideLabels=57606a&dates=8c959f&disable_animations=true" alt="GitHub contributions" />
-  </picture>
-</p>
