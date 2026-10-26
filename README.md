@@ -22,6 +22,42 @@ set up CI/CD and container delivery, and keep production stable with monitoring 
   <tr><td width="230"><b>Languages</b></td><td>Russian (native), English (B2)</td></tr>
 </table>
 
+### Hackathons
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Kurligin/mosprom-polyplast"><img src="assets/hackathons/mosprom.jpg" alt="Korsik 2.0: onboarding assistant in the MAX messenger" width="100%" /></a>
+      <h4>Otkroi#Mosprom 2026</h4>
+      <p>🏆 <b>2nd place</b> &nbsp;·&nbsp; 25 Oct 2026</p>
+      <p>Onboarding assistant for new Polyplastic Group staff in the MAX messenger. It answers with exact quotes from company documents and cites the source. Anything the documents don't cover goes to HR.</p>
+      <p><a href="https://github.com/Kurligin/mosprom-polyplast">Code</a> &nbsp;·&nbsp; <a href="https://mosprom-polyplast.rapira-cloud.ru">Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/DverkuOff/foresight"><img src="assets/hackathons/moscow-transport.jpg" alt="Foresight: dispatcher dashboard with delay risk on the Moscow map" width="100%" /></a>
+      <h4>Moscow Transport Hackathon 2026</h4>
+      <p>🏆 <b>2nd place</b> &nbsp;·&nbsp; 3 Oct 2026</p>
+      <p>Foresight: predicts delays at stops 10–15 minutes ahead from live vehicle telemetry, explains the likely cause and raises alerts on a dispatcher dashboard. Every forecast is later checked against the actual arrival.</p>
+      <p><a href="https://github.com/DverkuOff/foresight">Code</a> &nbsp;·&nbsp; <a href="https://dverkuoff.github.io/foresight/">Docs</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/hackathons/cosmohackathon.jpg" alt="SafeRoute operator workstation: replay of a delivery run on the site map" width="100%" />
+      <h4>CosmoHackathon 2026 · Final</h4>
+      <p>🏆 <b>2nd place</b> &nbsp;·&nbsp; 27 Sep 2026</p>
+      <p>SafeRoute: controller for an autonomous delivery platform that moves cargo between a warehouse, shops and a charger without GNSS, in fog and snow, and around people. Comes with an operator workstation for replaying and comparing runs. Before the final: 2nd place in the Nizhny Novgorod and Krasnoyarsk regional rounds.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Kurligin/mirea-hac"><img src="assets/hackathons/gazprom-ai.jpg" alt="Equipment passport scan with recognized OCR blocks" width="100%" /></a>
+      <h4>AI Automation Hackathon 2026</h4>
+      <p>🏆 <b>3rd place</b> &nbsp;·&nbsp; 25 Apr 2026</p>
+      <p>Gazprom Avtomatizatsiya × RTU MIREA. Local digitization of equipment passports: OCR, document type classification, field extraction, export to JSON, CSV and XLSX.</p>
+      <p><a href="https://github.com/Kurligin/mirea-hac">Code</a></p>
+    </td>
+  </tr>
+</table>
+
 ### DevOps
 
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,githubactions,gitlab,terraform,ansible,nginx,prometheus,grafana&perline=11" alt="DevOps stack" />
