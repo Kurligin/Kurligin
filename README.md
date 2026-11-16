@@ -27,12 +27,21 @@ set up CI/CD and container delivery, and keep production stable with monitoring 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Kurligin/resume-vacancy-match"><img src="assets/hackathons/mipt.jpg" alt="Sverka: vacancy ranking for a candidate who applied to the wrong vacancy" width="100%" /></a>
+      <h4>AI in MIPT Management Hackathon 2026</h4>
+      <p>🏆 <b>3rd place</b> &nbsp;·&nbsp; 15 Nov 2026</p>
+      <p>Sverka: matches a resume against every open MIPT vacancy in about 40 seconds. Ranks the vacancies, checks each requirement against a verbatim quote from the resume and flags candidates who applied to the wrong job. Personal data is masked before the model; the model only reads, the score is computed by code. Plus a recruiter workspace: applications from email and hh.ru, a DOCX pack for the hiring manager.</p>
+      <p><a href="https://github.com/Kurligin/resume-vacancy-match">Code</a> &nbsp;·&nbsp; <a href="https://mipt-hac.rapira-cloud.ru">Demo</a></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Kurligin/runtime-lens"><img src="assets/hackathons/night-of-code.jpg" alt="Runtime Lens: investigation agent walks through attack steps on the container process map" width="100%" /></a>
       <h4>Night of Code 2026</h4>
       <p>🏆 <b>Positive Technologies case winner</b> &nbsp;·&nbsp; <b>3rd place</b> overall &nbsp;·&nbsp; 8 Nov 2026</p>
       <p>Runtime Lens: an interactive activity map of a Kubernetes container built on Runtime Radar (Tetragon, eBPF) events. Turns 20k raw events into a process map, timeline and network view, assembles attack steps from <code>kubectl exec</code> to a reverse shell and maps them to MITRE ATT&amp;CK. The analysis core is a separate Python service. Built overnight.</p>
       <p><a href="https://github.com/Kurligin/runtime-lens">Code</a> &nbsp;·&nbsp; <a href="https://mos.hub.rapira-cloud.ru">Demo</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Kurligin/mosprom-polyplast"><img src="assets/hackathons/mosprom.jpg" alt="Korsik 2.0: onboarding assistant in the MAX messenger" width="100%" /></a>
       <h4>Otkroi#Mosprom 2026</h4>
@@ -40,8 +49,6 @@ set up CI/CD and container delivery, and keep production stable with monitoring 
       <p>Onboarding assistant for new Polyplastic Group staff in the MAX messenger. It answers with exact quotes from company documents and cites the source. Anything the documents don't cover goes to HR.</p>
       <p><a href="https://github.com/Kurligin/mosprom-polyplast">Code</a> &nbsp;·&nbsp; <a href="https://mosprom-polyplast.rapira-cloud.ru">Demo</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/DverkuOff/foresight"><img src="assets/hackathons/moscow-transport.jpg" alt="Foresight: dispatcher dashboard with delay risk on the Moscow map" width="100%" /></a>
       <h4>Moscow Transport Hackathon 2026</h4>
@@ -49,14 +56,14 @@ set up CI/CD and container delivery, and keep production stable with monitoring 
       <p>Foresight: predicts delays at stops 10–15 minutes ahead from live vehicle telemetry, explains the likely cause and raises alerts on a dispatcher dashboard. Every forecast is later checked against the actual arrival.</p>
       <p><a href="https://github.com/DverkuOff/foresight">Code</a> &nbsp;·&nbsp; <a href="https://dverkuoff.github.io/foresight/">Docs</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/hackathons/cosmohackathon.jpg" alt="SafeRoute operator workstation: replay of a delivery run on the site map" width="100%" />
       <h4>CosmoHackathon 2026 · Final</h4>
       <p>🏆 <b>2nd place</b> &nbsp;·&nbsp; 27 Sep 2026</p>
       <p>SafeRoute: controller for an autonomous delivery platform that moves cargo between a warehouse, shops and a charger without GNSS, in fog and snow, and around people. Comes with an operator workstation for replaying and comparing runs. Before the final: 2nd place in the Nizhny Novgorod and Krasnoyarsk regional rounds.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Kurligin/mirea-hac"><img src="assets/hackathons/gazprom-ai.jpg" alt="Equipment passport scan with recognized OCR blocks" width="100%" /></a>
       <h4>AI Automation Hackathon 2026</h4>
